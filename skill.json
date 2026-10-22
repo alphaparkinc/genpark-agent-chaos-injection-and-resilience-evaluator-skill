@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agent-chaos-injection-and-resilience-evaluator-skill",
+  "version": "1.0.0",
+  "description": "Injects synthetic latency, truncated responses, and HTTP error faults to evaluate autonomous agent self-healing resilience",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
